@@ -1,3 +1,5 @@
+![Header](./github-header-image-mrunmayee.png)
+
 # Hi 👋 I'm Mrunmayee Bhagwat
 
 - 🔭 I’m currently working on becoming a skilled Full Stack Developer.
